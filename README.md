@@ -4,6 +4,11 @@
 
 유튜브 → [@mjKorea123](https://www.youtube.com/@mjKorea123)
 
+<p>
+<img src="https://github.com/nk-mjk/claude-style-page/blob/main/style_page_sample-1.png?raw=true" width="49%">
+<img src="https://github.com/nk-mjk/claude-style-page/blob/main/style_page_sample-2.png?raw=true" width="49%">
+</p>
+
 ---
 
 ## 이게 뭔가요?
